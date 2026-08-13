@@ -38,7 +38,8 @@ async def button_click(update: Update, context: ContextTypes.DEFAULT_TYPE):
         pass
 
     if query.data == 'btn_address':
-        info_text = (
+        info_text = 
+        
             "┌─────────────────────┐\n"
             "│  📍 ဆိုင်တည်နေရာ        │\n"
             "├─────────────────────┤\n"
